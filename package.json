@@ -1,0 +1,14 @@
+{
+  "name": "server-validation",
+  "version": "1.0.0",
+  "description": "server-validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ssenger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
